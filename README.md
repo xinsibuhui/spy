@@ -2,7 +2,7 @@
 ### 不破楼兰终不还
 
 整理收集Faker仓库监控。本地秘钥计算方法，保证账户信息安全。已适配Spy插件24小时全天监控。
-ql repo https://github.com/xinsibuhui/spy.git "jd_" "" "^jd[^_]|USER|utils|function|sendNotify|magic|h5sts"
+ql repo https://github.com/xinsibuhui/spy.git "jd_" "" "^jd[^_]|USER|utils|function|sendNotify|depend|magic|h5sts""main"
 
 * 推荐配合spy使用
 * 自有拉库代理
